@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Garivini
-version:            0.001
+version:            0.002
 abstract:           Mostly language agnostic job persistence engine for Gearman
 author:
     - Dormando <dormando@rydia.net>
